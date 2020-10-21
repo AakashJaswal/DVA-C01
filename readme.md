@@ -1,8 +1,4 @@
----
-description: Below are information that i should focus on.
----
-
-# Readme
+# Below are information that i should focus on.
 
 ## The table below lists the main content domains and their weightings.
 
