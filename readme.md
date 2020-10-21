@@ -36,3 +36,10 @@
 1. Optimize application to best use AWS services and features
 2. Migrate existing application code to run on AWS
 
+#### Domain 5 :Monitoring and Troubleshooting 
+
+1. Write code that can be monitored
+2. Perform root cause analysis on faults found in testing orproduction
+
+
+
